@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">simpleSpeed</string>
+    <string name="veh_spd_name">Vehicle Speed</string>
+    <string name="mph_name">MPH</string>
+    <string name="kph_name">km/h</string>
+    <string name="dir_name">Direction</string>
+    <string name="met_name">Metric</string>
+</resources>
